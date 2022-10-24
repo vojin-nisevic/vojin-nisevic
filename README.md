@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vojin-nisevic
 - 👀 I’m interested in finding a job 
-- 🌱 I’m currently learning .NET Core and Blazor
+- 🌱 I’m currently learning JAVA and ANGULAR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nisevic.vojin@gmail.com
 
